@@ -13,17 +13,14 @@ Es una app que permite
 
 # 🚩 Tabla de contenido
 
-- [Necesidad de resolver un problema](#necesidad-de-resolver-un-problema)
-- [Modelo de Negocio](#modelo-de-negocio)
-- [Stakeholders](#stakeholders)
-- [Plan Research](#plan-research)
-- [Cronograma de Actividades](#cronograma-de-actividades)
-- [Kick Off](#kick-off)
-- [Proceso Research](#-proceso-research)
-  - [Cuantitativo](#cuantitativo)   
-  - [Cualitativo](#cualitativo)
-- [User Personas](#user-personas)
-- [Características del Producto](#características-del-producto)
-- [Prototipo](#prototipo)
-- [Demo](#demo)
-- [Herramientas](#herramientas)
+- [Recopilación de Requisitos](#recopilación-de-requisitos)
+- [Estudio de campo](#estudio-de-campo)
+- [Entrevistas-a-usuarios](#entrevitas-a-usuarios)
+
+
+## Recopilación de Requisitos
+| Usuarios | Requisitos  | Descripción |
+| ---- | ---- | ---- |
+| **Egresadas**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
+| **Freelance** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
+| **Laboratoria**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
