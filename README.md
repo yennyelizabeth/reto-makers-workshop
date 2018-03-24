@@ -21,6 +21,28 @@ Es una app que permite
 ## Recopilación de Requisitos
 | Usuarios | Requisitos  | Descripción |
 | ---- | ---- | ---- |
-| **Egresadas**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
-| **Freelance** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
-| **Laboratoria**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
+| **Egresadas**  |Alumnas de Laboratoria que culminaron el bootcamp.|
+| **Freelance** |Persona natural, empresa, startup, etc que requiere realizar un acuerdo laboral libre |
+| **Laboratoria**  |Entidad que canaliza las ofertas laborales en el portal de laboratoria para que
+sean visualizadas por las alumnas |
+
+
+| Entregable | Link | 
+| ---- | ---- | 
+| **Recopilación de Requisitos**  | |
+
+
+
+## USER PERSONAS
+
+![Inicio](assets/user-persona.png)
+
+| Entregable - User Person | Link | 
+| ---- | ---- | 
+| **User Laboratoria**  |https://realtimeboard.com/app/board/o9J_kzzXNgE=/ |
+| **User Egresada**  |https://realtimeboard.com/app/board/o9J_kzzXN1E=/|
+| **User Freelance**  |  |
+
+
+
+
