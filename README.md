@@ -13,25 +13,10 @@ Es una app que permite
 
 # 🚩 Tabla de contenido
 
-- [Recopilación de Requisitos](#recopilación-de-requisitos)
-- [Estudio de campo](#estudio-de-campo)
-- [Entrevistas-a-usuarios](#entrevitas-a-usuarios)
 
-
-## Recopilación de Requisitos
-| Usuarios | Requisitos  |
-| ---- | ---- |
-| **Egresadas**  |Alumnas de Laboratoria que culminaron el bootcamp.|
-| **Freelance** |Persona natural, empresa, startup, etc que requiere realizar un acuerdo laboral libre |
-| **Laboratoria**  |Entidad que canaliza las ofertas laborales en el portal de laboratoria para que sean visualizadas por las alumnas |
-
-
-| Entregable | Link | 
-| ---- | ---- | 
-| **Recopilación de Requisitos**  | |
-
-
-
+- [USER PERSONAS](#user-persona)
+- [DEFINICIÓN DEL PROBLEMA](#definición-del-problema)
+- [USER FLOWS](#user-flows)
 
 
 ## USER PERSONAS
@@ -43,6 +28,17 @@ Es una app que permite
 | **User Laboratoria**  |https://realtimeboard.com/app/board/o9J_kzzXNgE=/ |
 | **User Egresada**  |https://realtimeboard.com/app/board/o9J_kzzXN1E=/|
 | **User Freelance**  |  |
+
+
+## DEFINICIÓN DEL PROBLEMA
+
+Ausencia de un espacio de contacto entre freelance y egresadas de laboratoria.
+
+| Usuarios | Característica  | Necesidad |
+| ---- | ---- | ---- |
+| **Egresadas**  |Alumnas de Laboratoria que culminaron el bootcamp.| requieren visualizar oportunidades laborales|
+| **Freelance** |Persona natural, empresa, startup, etc | requiere realizar un acuerdo laboral libre |
+| **Laboratoria** |Entidad  |que canaliza las ofertas laborales en el portal de laboratoria para que sean visualizadas por las alumnas |
 
 
 ## USERS FLOWS
