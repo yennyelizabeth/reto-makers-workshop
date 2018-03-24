@@ -35,7 +35,7 @@ sean visualizadas por las alumnas |
 
 ## USER PERSONAS
 
-![Inicio](assets/user-persona.png)
+![Inicio](assets/user-egresada.png)
 
 | Entregable - User Person | Link | 
 | ---- | ---- | 
