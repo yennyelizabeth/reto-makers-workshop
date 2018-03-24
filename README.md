@@ -19,17 +19,18 @@ Es una app que permite
 
 
 ## Recopilación de Requisitos
-| Usuarios | Requisitos  | Descripción |
-| ---- | ---- | ---- |
+| Usuarios | Requisitos  |
+| ---- | ---- |
 | **Egresadas**  |Alumnas de Laboratoria que culminaron el bootcamp.|
 | **Freelance** |Persona natural, empresa, startup, etc que requiere realizar un acuerdo laboral libre |
-| **Laboratoria**  |Entidad que canaliza las ofertas laborales en el portal de laboratoria para que
-sean visualizadas por las alumnas |
+| **Laboratoria**  |Entidad que canaliza las ofertas laborales en el portal de laboratoria para que sean visualizadas por las alumnas |
 
 
 | Entregable | Link | 
 | ---- | ---- | 
 | **Recopilación de Requisitos**  | |
+
+
 
 
 
@@ -42,6 +43,13 @@ sean visualizadas por las alumnas |
 | **User Laboratoria**  |https://realtimeboard.com/app/board/o9J_kzzXNgE=/ |
 | **User Egresada**  |https://realtimeboard.com/app/board/o9J_kzzXN1E=/|
 | **User Freelance**  |  |
+
+
+## USERS FLOWS
+
+| Entregable - User Flow | Link | 
+| ---- | ---- |
+| Freelance | https://www.figma.com/file/VsWFEhxtQ5ssLhrWORCTU5Wz/user-flow-diagram-template?node-id=1%3A138|  
 
 
 
