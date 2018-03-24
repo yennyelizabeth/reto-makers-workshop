@@ -43,9 +43,21 @@ Ausencia de un espacio de contacto entre freelance y egresadas de laboratoria.
 
 ## USERS FLOWS
 
+
+User Flow - Freelancer
+![Inicio](assets/user-flow-freelancer.png)
+
+User Flow - Egresada
+![Inicio](assets/user-flow-egresada.png)
+
+
+
+
 | Entregable - User Flow | Link | 
 | ---- | ---- |
 | Freelance | https://www.figma.com/file/VsWFEhxtQ5ssLhrWORCTU5Wz/user-flow-diagram-template?node-id=1%3A138|  
+| Egresada | https://www.figma.com/file/VsWFEhxtQ5ssLhrWORCTU5Wz/user-flow-diagram-template?node-id=23%3A378|  
+| Laboratoria | |  
 
 
 
